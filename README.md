@@ -1,11 +1,8 @@
-Real-time web frameworks analysis:
-==================================
-
-Pros/Cons analysis of frameworks for real-time, collaborative web apps
+# Pros/Cons analysis of frameworks for real-time, collaborative web apps
 
 For now, only Meteor and Derby will be compared. As other frameworks emerge, they will be analyzed and compared to the existing frameworks.
 
-As of **December 2013**.
+As of *December 2013*.
 
 ## Conflict Resolution
 
@@ -66,3 +63,9 @@ As of **December 2013**.
 **Meteor**: high due to major 11M USD investment in 2013 
 
 **Derby**: unknown
+
+## Built-in User Management
+
+**Meteor**: yes
+
+**Derby**: no
