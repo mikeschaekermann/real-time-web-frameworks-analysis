@@ -69,3 +69,9 @@ As of *December 2013*.
 **Meteor**: yes
 
 **Derby**: no
+
+## Access to parent scope of data context within template sections
+
+**Meteor**: no
+
+**Derby**: yes
