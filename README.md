@@ -75,3 +75,9 @@ As of *December 2013*.
 **Meteor**: no
 
 **Derby**: yes
+
+## Non-void template components
+
+**Meteor**: no
+
+**Derby**: yes
